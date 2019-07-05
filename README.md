@@ -5,9 +5,9 @@ The purpose of this project is to give you a basic understanding of state manage
 This app uses VueJS to call Marvel API (via Axios) and display a small amount of information (heroes, images, description...).
 
 ### Screenshots
-![](https://github.com/FantasiaMoon/vuex-marvel-api-explorer/blob/master/src/assets/screenshots/p2.jpg?raw=true | width=400)
-![](https://github.com/FantasiaMoon/vuex-marvel-api-explorer/blob/master/src/assets/screenshots/p0.jpg?raw=true | width=400)
-![](https://github.com/FantasiaMoon/vuex-marvel-api-explorer/blob/master/src/assets/screenshots/p1.jpg?raw=true | width=400)
+![](https://github.com/FantasiaMoon/vuex-marvel-api-explorer/blob/master/src/assets/screenshots/p2.jpg | width=400)
+![](https://github.com/FantasiaMoon/vuex-marvel-api-explorer/blob/master/src/assets/screenshots/p0.jpg | width=400)
+![](https://github.com/FantasiaMoon/vuex-marvel-api-explorer/blob/master/src/assets/screenshots/p1.jpg | width=400)
 
 ### Install dependencies
 ```
