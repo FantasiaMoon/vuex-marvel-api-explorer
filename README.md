@@ -6,8 +6,6 @@ This app uses VueJS to call Marvel API (via Axios) and display a small amount of
 
 ### Screenshots
 ![demo1](src/assets/screenshots/p0.jpg)
-![demo2](src/assets/screenshots/p1.jpg)
-![demo3](src/assets/screenshots/p2.jpg)
 
 ### Install dependencies
 ```
