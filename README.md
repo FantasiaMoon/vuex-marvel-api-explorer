@@ -5,7 +5,9 @@ The purpose of this project is to give you a basic understanding of state manage
 This app uses VueJS to call Marvel API (via Axios) and display a small amount of information (heroes, images, description...).
 
 ### Screenshots
-![demo](src/assets/screenshots/p0.jpg)
+![demo1](src/assets/screenshots/p0.jpg)
+![demo2](src/assets/screenshots/p1.jpg)
+![demo3](src/assets/screenshots/p2.jpg)
 
 ### Install dependencies
 ```
